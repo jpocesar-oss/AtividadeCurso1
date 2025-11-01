@@ -1,0 +1,22 @@
+figure{
+    margin-left: 0;
+}
+
+img{
+    margin: 0;
+    height: 300px;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 10px;
+ }
+
+li a, article section a {
+    color: black;
+}
+
+li a:hover, article section a:hover{
+    color: blue;
+}
+        
